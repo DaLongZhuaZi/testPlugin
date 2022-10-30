@@ -1,0 +1,10 @@
+{
+  "name": "Best Way",
+  "author": "DaLongZhuaZi",
+  "flags": ["debug", "_root"],
+  "publish": {
+    "tags": ["settings", "root"],
+    "description": "Find the best way to enjoy your self in each game.You can also go'www.xxxxx.com'to upload your experience.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
